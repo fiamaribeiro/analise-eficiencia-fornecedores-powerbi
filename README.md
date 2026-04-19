@@ -107,6 +107,6 @@ Dataset público obtido no Kaggle, simulando um cenário de procurement com info
 
 ---
 
-## Autor
+## 👩‍💻 Autora
 
 Projeto desenvolvido por **Fiama Ribeiro** como parte do do portfólio na área de análise de dados.
